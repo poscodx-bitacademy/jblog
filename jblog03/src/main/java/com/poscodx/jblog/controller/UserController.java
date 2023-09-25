@@ -1,0 +1,8 @@
+package com.poscodx.jblog.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class UserController {
+
+}
